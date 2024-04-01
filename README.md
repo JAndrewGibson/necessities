@@ -1,6 +1,4 @@
-![necessities banner](https://private-user-images.githubusercontent.com/113860149/318261230-ce03354c-9ef6-4d65-a995-28bc9cdb1baf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE4ODQ0NTMsIm5iZiI6MTcxMTg4NDE1MywicGF0aCI6Ii8xMTM4NjAxNDkvMzE4MjYxMjMwLWNlMDMzNTRjLTllZjYtNGQ2NS1hOTk1LTI4YmM5Y2RiMWJhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMzMVQxMTIyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzBiYzBmMjc0NTRmNTZlN2ZmNDk0NzgzYzkyYmE4ZmI0YWNkMWJmMDM4ODc1ZGI2ZTBlMjFkODQ5MjZmYTc5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ekM7M1PQ0OK01nCjobVBsIDldFEo_Kbx2CQuS3QFPK8)
-
-## An all in one solution to a fully-functioning, no-profit grocery store.
+# An all in one solution to a fully-functioning, no-profit grocery store.
 
 ### ❓ What is necessities?
 #### tl;dr A hopeful project to help create an affordable planet by offering good food as cheap as possible.
@@ -19,11 +17,12 @@ So far, this repository is mostly empty - this idea has lived in my head for yea
 
 # Roadmap
 ## Present - April 2024
-- Begin process of uploading all database schemas into a readable form and brainstorm with data scientists about how best to organize the databases
-- Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
-- - Python backend
-- - Confirm language for frontend, though all frontend will likely be placeholder for now
-- - Create feature list for inventory system!
+- ✅ PURCHASED DOMAIN! (www.necessities.systems) - There's nothing there yet. 😂 
+- 🟨Begin process of uploading all database schemas into a readable form and brainstorm with data scientists about how best to organize the databases
+- 🟨Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
+- - 🟨Python backend
+- - 🟨Confirm language for frontend, though all frontend will likely be placeholder for now
+- - 🟨Create feature list for inventory system!
 
 ## Future
 ### Inventory
@@ -53,7 +52,7 @@ So far, this repository is mostly empty - this idea has lived in my head for yea
 - Benefits (Ability to edit)
 
 ### Feature creep!
-- Membership (individuals or investors who live in the area get a different margin than visitors)
+- Membership (investors or shoppers who live in the area get a different margin than visitors)
 
 
 ## Past
