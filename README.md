@@ -16,10 +16,14 @@ The daily (or perhaps even hourly) price margin and total store expenses will be
 So far, this repository is mostly empty - this idea has lived in my head for years and I've slowly been gaining experience in POS, business management, tax code, inventory and other relevant fields and I feel like I'm at a good place to begin. If you want to help, I'm just a dude 🤷, so send me a message! I'm available during business hours for the most part (flexible day-job) so let's jump on a call and colaborate!
 
 # Roadmap
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="necessities roadmap" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/660f071ca4238d001422cd39" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+
 ## Present - April 2024
-- ✅ PURCHASED DOMAIN! (www.necessities.systems) - There's nothing there yet. 😂 
-- 🟨Begin process of uploading all database schemas into a readable form and brainstorm with data scientists about how best to organize the databases
+- ✅ PURCHASED DOMAIN![Necessities.systems](www.necessities.systems) It's hosting this readme currently!
+- ✅Begin process of orgnization so that features, ideas and to-dos are easily accessible. - Currently is on the interactive roadmap above!
 - 🟨Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
+- - 🟨Look through some different inventory systems [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home), 
 - - 🟨Python backend
 - - 🟨Confirm language for frontend, though all frontend will likely be placeholder for now
 - - 🟨Create feature list for inventory system!
@@ -32,6 +36,13 @@ So far, this repository is mostly empty - this idea has lived in my head for yea
 - Create different quantities (case, pack, pallet)
 - All quantities need to be editable
 - Create API for inventory
+- Track expiry dates
+- Enable donation feature for non-sellables (past expiry) - Is this legal? 🤔
+- Location tracking (by asile, warehouse, department, ect)
+- Create restock notices
+- Add reporting for spills, spoil, theft and waste.
+- Archive
+
 
 ### POS
 - Add items to cart
@@ -43,6 +54,7 @@ So far, this repository is mostly empty - this idea has lived in my head for yea
 - Add fluid expenses like water and power bill
 - Research relevant tax documents (State and county/borough)
 - Contracts
+- Camera system! (Should probably be hosted locally)
 
 ### HR
 - Add Employees
