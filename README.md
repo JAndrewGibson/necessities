@@ -20,7 +20,7 @@ So far, this repository is mostly empty - this idea has lived in my head for yea
 
 
 ## Present - April 2024
-- ✅ PURCHASED DOMAIN![Necessities.systems](www.necessities.systems) It's hosting this readme currently!
+- ✅[PURCHASED DOMAIN! (necessities.systems)](www.necessities.systems) It's hosting this readme currently!
 - ✅Begin process of orgnization so that features, ideas and to-dos are easily accessible. - Currently is on the interactive roadmap above!
 - 🟨Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
 - - 🟨Look through some different inventory systems [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home), 
