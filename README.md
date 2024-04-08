@@ -12,8 +12,8 @@ The idea is for people to invest in their own community and neighborhood and kee
 By having tools for inventory, POS, business administration, HR and timekeeping all under the same software, an algorithim will determine exactly how much profit needs to be made on any item in order to keep the staff with a living wage, the lights on and the morgage paid. (No executive yacht included)
 The daily (or perhaps even hourly) price margin and total store expenses will be on display at all times, so you don't have to wonder where your money is actually going.
 
-### 🏃 I'm in, how can I help; what's the plan of attack?
-So far, this repository is mostly empty - this idea has lived in my head for years and I've slowly been gaining experience in POS, business management, tax code, inventory and other relevant fields and I feel like I'm at a good place to begin. If you want to help, I'm just a dude 🤷, so send me a message! I'm available during business hours for the most part (flexible day-job) so let's jump on a call and colaborate!
+### 🏃 [I'm in, how can I help; what's the plan of attack?](https://github.com/JAndrewGibson/necessities/)
+So far, [this repository](https://github.com/JAndrewGibson/necessities/) is mostly empty - this idea has lived in my head for years and I've slowly been gaining experience in POS, business management, tax code, inventory and other relevant fields and I feel like I'm at a good place to begin. If you want to help, I'm just a dude 🤷, so [send me a message!](mailto:agibson@hondacenter.com) I'm available during business hours for the most part (flexible day-job) so let's jump on a call and colaborate!
 
 # Roadmap
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="necessities roadmap" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/660f071ca4238d001422cd39" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
