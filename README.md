@@ -24,11 +24,11 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 - ✅Begin process of orgnization so that features, ideas and to-dos are easily accessible. - Currently is on the interactive roadmap above!
 - ✅Backend package selected! (We're doing [Django](https://djangoproject.com/)! 😎)
 - - 🟨 Learn [Django!](https://www.youtube.com/playlist?list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo) (35% Done!)
-- 🟨Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
-- - 🟨Look through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
-- - 🟨Python backend + Django!
-- - 🟨Confirm package for frontend, though all frontend will likely be placeholder for now...
-- - - 🟥Looking for different frontend packages... (React, Angular, Vue.js, Ember, Backbone.js or Knockout.js)
+- ✅Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
+- - ✅Django project started!
+- - ✅Look through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
+- - ✅Frontend project
+- - - ✅Begin researching different frontend packages... (React, Angular, Vue.js, Ember, Backbone.js or Knockout.js)
 - - ✅Create feature list for inventory system!
 
 ## Future
