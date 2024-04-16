@@ -19,17 +19,21 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="necessities roadmap" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/660f071ca4238d001422cd39" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 
-## Present - April 2024
-- ✅[Purchansed the necessities.systems domain!](https://necessities.systems/) It's hosting this readme currently!
-- ✅Begin process of orgnization so that features, ideas and to-dos are easily accessible. - Currently is on the interactive roadmap above!
-- ✅Backend package selected! (We're doing [Django](https://djangoproject.com/)! 😎)
-- - 🟨 Learn [Django!](https://www.youtube.com/playlist?list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo) (35% Done!)
+## Present - May 2024
+
+- 🟨 Learn [Django!](https://www.youtube.com/playlist?list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo) (35% Done!)
 - ✅Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
 - - ✅Django project started!
 - - ✅Look through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
 - - ✅Frontend project
-- - - ✅Begin researching different frontend packages... (React, Angular, Vue.js, Ember, Backbone.js or Knockout.js)
-- - ✅Create feature list for inventory system!
+
+### Current sprint (4/14 - 4/30) 
+- This period of time is almost entirely dedicated to learning Django. I'll be creating multiple small projects as a result and hosting them on this website for some practice.
+- As a result of hosting them here, I'll also familiarize myself with the Google Cloud Platform SDK.
+
+### Next sprint (5/1 - 5/14)
+- Creating the skeleton of the inventory system completely and robustly.
+
 
 ## Future
 ### Inventory
@@ -71,10 +75,17 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 
 
 ## Past
-### September 2022
-- Initial idea
+
+### April 2024
+- [Purchansed the necessities.systems domain!](https://necessities.systems/) It's hosting this readme currently!
+- Create interactive roadmap.
+- Backend package selected! (We're doing [Django](https://djangoproject.com/)! 😎)
+- Began inventory software.
 
 ### March 2024
 - Offically began project!
 - Added this snazzy readme
 - Outlined for the future
+
+### September 2022
+- Initial idea
