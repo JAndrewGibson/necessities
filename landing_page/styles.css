@@ -1,0 +1,69 @@
+/* Basic styles for the webpage */
+@font-face {
+    font-family: 'Grown';
+    src: url('./fonts/Grown.ttf') format('truetype');
+    font-family: 'Montserrat'; 
+    src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('truetype-variations'); 
+    font-weight: 100 900; 
+  }
+
+body {
+    font-family: 'Montserrat', sans-serif; 
+    margin: 0;
+}
+
+.header {
+    background: linear-gradient(to right, #728164 50%, rgba(114, 129, 100, 0) 100%); /* Replace background-color */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: left; 
+    height: 60px; /* Set a fixed height */
+    display: flex; /* Enable flexbox for centering content */
+    align-items: center; /* Center content vertically */
+    padding-left: 20px; /* Add left padding to accommodate text-align: left */
+  }
+  
+  .title {
+    color: black;
+    font-family: 'Grown', sans-serif;
+    font-size: 50px;
+    padding: 5px;
+  }
+
+  /* ... other styles ... */
+
+.main-container {
+    display: flex; 
+    margin-top: 60px; 
+  }
+  
+  .main {
+    padding: 20px;
+    flex: 3; 
+  }
+  
+  .sidebar {
+    padding: 20px;
+    background-color: #f1f1f1;
+    flex: 1; 
+  }
+  
+  /* Target the iframe's container */
+  .main .iframe-container {
+    position: relative;    /* Key change 1 */
+    overflow: hidden;      /* Key change 2 */
+    width: 100%; 
+    padding-bottom: 56.25%; /* Maintain aspect ratio */
+    height: 0;
+  }
+  
+  /* Target the iframe */
+  .main .iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
