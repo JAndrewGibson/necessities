@@ -27,13 +27,15 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 - - ✅Look through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
 - - ✅Frontend project
 
-### Current sprint (4/14 - 4/30) 
-- This period of time is almost entirely dedicated to learning Django. I'll be creating multiple small projects as a result and hosting them on this website for some practice.
-- As a result of hosting them here, I'll also familiarize myself with the Google Cloud Platform SDK.
+### Current sprint (5/1 - 5/15) 
+- Django Projects are split into apps, I'll be working on the authenticator app first so that I can have a proper login with google authenticator and begin editing the admin panel.
+- Ideally, I'll also begin on the inventory app.
 
-### Next sprint (5/1 - 5/14)
+### Next sprint (5/15 - 6/1)
 - Creating the skeleton of the inventory system completely and robustly.
 
+### Previous sprint (4/14 - 4/30)
+- This period of time was almost entirely dedicated to learning Django. I created multiple small projects as a result.
 
 ## Future
 ### Inventory
@@ -80,7 +82,8 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 - [Purchansed the necessities.systems domain!](https://necessities.systems/) It's hosting this readme currently!
 - Create interactive roadmap.
 - Backend package selected! (We're doing [Django](https://djangoproject.com/)! 😎)
-- Began inventory software.
+- Spent 100 hours learning Django. 
+- Began inventory software skeleton
 
 ### March 2024
 - Offically began project!
