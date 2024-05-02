@@ -18,6 +18,8 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 # Roadmap
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="necessities roadmap" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/660f071ca4238d001422cd39" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
+## My Github contrubutions
+<img src="http://ghchart.rshah.org/00003a/JAndrewGibson" alt="My Github contributions" />
 
 ## Present - May 2024
 
