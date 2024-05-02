@@ -21,7 +21,7 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 
 ## Present - May 2024
 
-- 🟨 Learn [Django!](https://www.youtube.com/playlist?list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo) (35% Done!)
+- ✅ Learn [Django!](https://www.youtube.com/playlist?list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo)
 - ✅Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
 - - ✅Django project started!
 - - ✅Look through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
