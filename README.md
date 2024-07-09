@@ -21,23 +21,13 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 ## My Github contrubutions
 <img src="http://ghchart.rshah.org/00003a/JAndrewGibson" alt="My Github contributions" />
 
-## Present - May 2024
+## Present - July 2024
+- Education
+- - A big part of this project is aquiring all of the skills I need to continue, it won't happen overnight, but I'm still working toward it! The only way to fail is by giving up.
 
-- ✅ Learn [Django!](https://www.youtube.com/playlist?list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo)
-- ✅Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
-- - ✅Django project started!
-- - ✅Look through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
-- - ✅Frontend project
-
-### Current sprint (5/1 - 5/15) 
-- Django Projects are split into apps, I'll be working on the authenticator app first so that I can have a proper login with google authenticator and begin editing the admin panel.
-- Ideally, I'll also begin on the inventory app.
-
-### Next sprint (5/15 - 6/1)
-- Creating the skeleton of the inventory system completely and robustly.
-
-### Previous sprint (4/14 - 4/30)
-- This period of time was almost entirely dedicated to learning Django. I created multiple small projects as a result.
+### Current goals (7/1 - 8/1) 
+- 🟨Begin Coursera Certificate on Django
+- 🟨Begin Coursera Certificate on Google Cloud
 
 ## Future
 ### Inventory
@@ -79,6 +69,14 @@ So far, [this repository](https://github.com/JAndrewGibson/necessities/) is most
 
 
 ## Past
+
+### June 2024
+- Took a small summer break 😎
+
+### May 2024
+- Begin inventory software! (The inventory is the backbone of the system and will need to be robust!)
+- - Django project started!
+- - Looked through some different inventory systems like [YellowDog](https://portal.yellowdogsoftware.com/portal/en/home). 
 
 ### April 2024
 - [Purchansed the necessities.systems domain!](https://necessities.systems/) It's hosting this readme currently!
